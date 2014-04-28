@@ -1,0 +1,119 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>BioNews</title>
+<style type="text/css">
+<!--
+/*HOTMAIL*/
+body {background-color: #000;}
+.ReadMsgBody {width:100%;}
+.ExternalClass {width:100%;}
+.ver {font-family: Arial; font-size: 10px; color:#444444; text-decoration: none;}
+.aqui {font-family: Arial; font-size: 10px; color:#444444; text-decoration: underline;}
+.legal {font-family: Arial; font-size: 10px; color:#444444; text-decoration: none;}
+.titulo {font-family: Arial; font-size: 18px; color:#222222; text-decoration: none; font-weight: bold; }
+.subtitulo {font-family: Arial; font-size: 14px; color:#999999; text-decoration: none; font-weight: bold;}
+.texto {font-family: Arial; font-size: 12px; color:#222222; text-decoration: none; line-height: 18px;}
+.etiquetas {font-family: Arial; font-size: 10px; color:#999999; text-decoration: none;}
+.pie {font-family: Arial; font-size: 11px; color:#444444; text-decoration: none; }
+-->
+</style>
+<body>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#000000">
+  <tr>
+    <td><table width="600" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="600" colspan="2" align="left" class="ver"><span style="font-family: Arial; font-size: 10px; color:#444444; text-decoration: none;"><br />Si no puedes ver bien este email prueba pinchando</span> <a href="http://www.biografica.org/bionews/creative-jamm/bionews.html" title="pincha aquí" target="_blank" class="aqui" style="font-family: Arial; font-size: 10px; color:#444444; text-decoration: underline;">aquí<br /></a></td>
+  </tr>
+  <!--CABECERA-->
+  <tr>
+    <td colspan="2"><table width="600" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" width="300"><a href="http://www.biografica.org" target="_blank"><img src="http://www.biografica.org/bionews/img/biologo.jpg" alt="biográfica" width="225" height="75" border="0" galleryimg="no" style="width: 225px; height: 75px; display: block;"/></a></td>
+    <td align="right" width="83"></td>
+    <td align="right" width="19"><a href="http://www.biografica.org/trabajos/favoritos/" target="_blank"><img src="http://www.biografica.org/bionews/img/favoritos.jpg" alt="favoritos" width="19" height="75" border="0" galleryimg="no" style="width: 19px; height: 75px; display: block;"/></a></td>
+    <td align="right" width="20"><img src="http://www.biografica.org/bionews/img/plus1.jpg" alt="plus" width="20" height="75" border="0" galleryimg="no" style="width: 20px; height: 75px; display: block;"/></td>
+    <td align="right" width="21"><a href="http://www.biografica.org/trabajos/identidad" target="_blank"><img src="http://www.biografica.org/bionews/img/identidad.jpg" alt="identidad" width="21" height="75" border="0" galleryimg="no" style="width: 21px; height: 75px; display: block;"/></a></td>
+    <td align="right" width="20"><img src="http://www.biografica.org/bionews/img/plus2.jpg" alt="plus" width="20" height="75" border="0" galleryimg="no" style="width: 20px; height: 75px; display: block;"/></td>
+    <td align="right" width="20"><a href="http://www.biografica.org/trabajos/motion" target="_blank"><img src="http://www.biografica.org/bionews/img/video.jpg" alt="video" width="20" height="75" border="0" galleryimg="no" style="width: 20px; height: 75px; display: block;"/></a></td>
+    <td align="right" width="20"><img src="http://www.biografica.org/bionews/img/plus3.jpg" alt="plus" width="20" height="75" border="0" galleryimg="no" style="width: 20px; height: 75px; display: block;"/></td>
+    <td align="right" width="20"><a href="http://www.biografica.org/trabajos/web" target="_blank"><img src="http://www.biografica.org/bionews/img/web.jpg" alt="web" width="20" height="75" border="0" galleryimg="no" style="width: 20px; height: 75px; display: block;"/></a></td>
+    <td align="right" width="20"><img src="http://www.biografica.org/bionews/img/plus4.jpg" alt="plus" width="20" height="75" border="0" galleryimg="no" style="width: 20px; height: 75px; display: block;"/></td>
+    <td align="right" width="14"><a href="http://www.biografica.org/trabajos/editorial" target="_blank"><img src="http://www.biografica.org/bionews/img/editorial.jpg" alt="editorial" width="14" height="75" border="0" galleryimg="no" style="width: 14px; height: 75px; display: block;"/></a></td>
+    <td align="right" width="20"><img src="http://www.biografica.org/bionews/img/plus5.jpg" alt="plus" width="20" height="75" border="0" galleryimg="no" style="width: 20px; height: 75px; display: block;"/></td>
+    <td align="right" width="23"><a href="http://www.biografica.org/biografica" target="_blank"><img src="http://www.biografica.org/bionews/img/biotipos.jpg" alt="biotipos" width="23" height="75" border="0" galleryimg="no" style="width: 23px; height: 75px; display: block;"/></a></td>
+  </tr>
+</table>
+</td>
+  </tr>
+  <!--CABECERA FIN--> 
+  <!--NOTICIA-->
+  <tr>
+    <td colspan="2"><table width="600" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
+  <tr>
+    <td colspan="4" width="600"><a href="http://www.adobe.com/es/event/jointhecreatives/jam.html" target="_blank"><img src="http://www.biografica.org/bionews/creative-jamm/creative-jammers.jpg" alt="Somos Creative Jammers" width="600" height="302" border="0" galleryimg="no" style="width: 600px; height: 302px; display: block;"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="20"></td>
+    <td width="280" valign="bottom" class="titulo"><span style="font-family: Arial; font-size: 18px; color:#222222; text-decoration: none; font-weight: bold;"><br />Somos Creative Jammers</span></td>
+    <td width="280"></td>
+    <td width="20"></td>
+  </tr>
+  <tr>
+    <td width="20"></td>
+    <td width="280" class="subtitulo"><span style="font-family: Arial; font-size: 14px; color:#999999; text-decoration: none; font-weight: bold;">¡Apóyanos en la gran batalla creativa!</span></td>
+    <td width="280" align="right" class="etiquetas"><span style="font-family: Arial; font-size: 11px; color:#999999; text-decoration: none;"><b>Etiquetas:</b> 
+<a href="http://www.biografica.org" target="_blank" style="font-family: Arial; font-size: 11px; color:#999999; text-decoration: none;">biográfica</a></span></td>
+    <td width="20"></td>
+  </tr>
+  <tr>
+    <td width="20"></td>
+    <td width="280" class="texto"><span style="font-family: Arial; font-size: 12px; color:#222222; text-decoration: none; line-height: 18px;"><br />Mañana participamos en la Creative Jam que Adobe hace en Madrid, con muchas ganas! <br />Si queréis vernos en directo votarnos y además ganar algún premio podéis hacerlo de la siguiente manera:<br /><br />
+1. Regístraste al evento en: <a href="http://adobe.ly/1myYB0C" title="registro" target="_blank">http://adobe.ly/1myYB0C</a><br /><br />
+2. Conectarte al evento online mañana a partir de las 17.45 hrs. <a href="http://adobe.ly/1myYBh4" title="conectacte" target="_blank">http://adobe.ly/1myYBh4</a><br /><br />
+3. Participar en la conversación de twitter utilizando el hashtag <a href="https://www.facebook.com/hashtag/createnow" title="#CreateNow" target="_blank">#CreateNow</a> del 22 y hasta el 25 de abril de 2014, de forma cualitativa y con contenido de calidad relacionado con el evento.<br /><br />
+Si quieres conocer todas las bases del concurso entra aquí: <a href="http://adobe.ly/1myYBO4" title="bases" target="_blank">http://adobe.ly/1myYBO4</a><br /><br />
+Un abrazo a todos y deseadnos suerte!!!</span></td>
+    <td width="280" align="right" valign="bottom"><a href="http://www.biografica.org/" target="_blank"><img src="http://www.biografica.org/bionews/img/biosimbolo-gris.jpg" alt="biosimbolo" width="29" height="25" border="0" galleryimg="no" style="width: 29px; height: 25px; display: block;"/></a></td>
+    <td width="20"></td>
+  </tr>
+  <tr>
+    <td width="600" height="25" colspan="4"></td>
+    </tr>
+</table>
+</td>
+  </tr>
+  <!--NOTICIA FIN-->
+  <!--PIE-->
+  <tr>
+    <td width="300" align="left" class="pie"><a href="mailto:nuria@biografica.org" title="nuria" class="pie" style="font-family: Arial; font-size: 11px; color:#ffffff; text-decoration: none;"><br /><br />Madrid</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="mailto:cueto@biografica.org" title="cueto" class="pie" style="font-family: Arial; font-size: 11px; color:#ffffff; text-decoration: none;">Ibiza</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="mailto:pablo@biografica.org" title="pablo" class="pie" style="font-family: Arial; font-size: 11px; color:#ffffff; text-decoration: none;">Los Ángeles<br /><br /><br /></a></td>
+    <td width="300" align="right" class="pie"><a href="mailto:estudio@biografica.org" title="estudio" class="pie" style="font-family: Arial; font-size: 11px; color:#ffffff; text-decoration: none;"><br /><br />estudio@biografica.org<br /><br /><br /></a></td>
+  </tr>
+  <tr>
+    <td colspan="2"><table width="600" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" width="300"><img src="http://www.biografica.org/bionews/img/sefelizhazfeliz.jpg" alt="se feliz haz feliz" width="200" height="20" border="0" galleryimg="no" style="width: 200px; height: 20px; display: block;"/></td>
+    <td align="right" width="195"></td>
+    <td align="right" width="21"><a href="https://www.facebook.com/biografica" target="_blank"><img src="http://www.biografica.org/bionews/img/facebook.jpg" alt="facebook" width="21" height="25" border="0" galleryimg="no" style="width: 21px; height: 25px; display: block;"/></a></td>
+    <td align="right" width="21"><a href="https://twitter.com/sefelizhazfeliz" target="_blank"><img src="http://www.biografica.org/bionews/img/twitter.jpg" alt="twitter" width="21" height="25" border="0" galleryimg="no" style="width: 21px; height: 25px; display: block;"/></a></td>
+    <td align="right" width="21"><a href="http://vimeo.com/biografica" target="_blank"><img src="http://www.biografica.org/bionews/img/vimeo.jpg" alt="vimeo" width="21" height="25" border="0" galleryimg="no" style="width: 21px; height: 25px; display: block;"/></a></td>
+    <td align="right" width="21"><a href="http://www.behance.net/biografica" target="_blank"><img src="http://www.biografica.org/bionews/img/behance.jpg" alt="behance" width="21" height="25" border="0" galleryimg="no" style="width: 21px; height: 25px; display: block;"/></a></td>
+    <td align="right" width="21"><a href="https://www.pinterest.com/biografica/" target="_blank"><img src="http://www.biografica.org/bionews/img/pinterest.jpg" alt="pinterest" width="21" height="25" border="0" galleryimg="no" style="width: 21px; height: 25px; display: block;"/></a></td>
+  </tr>
+</table>
+</td>
+  </tr>
+<!--PIE FIN-->
+<tr>
+<td colspan="2" width="600" bgcolor="#000000" class="pie"><a style="font-family: Arial; font-size: 10px; color:#444444; text-decoration: none; "><br /><br />Si no desea recibir nuestra bioNews, por favor responda a este mail con el asunto BAJA bionews. Gracias.</a><br /><br /><br /></td>
+</tr> 
+</table>
+</td>
+</tr>
+</table>
+</head>
+</body>
+</html>
